@@ -1,0 +1,1 @@
+Retest004. m is the calculation code for Model 1, statecontroll1.slx is the corresponding Simulink simulation file, retest007. m is the calculation code for Model 2, statecontroll2.slx is the corresponding Simulink simulation file, diedai. m, disc. m, and halfl. m are self written functions that may be used
